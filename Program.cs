@@ -13,8 +13,8 @@ namespace _1_den_1_milyona_kadar_sayiları_7_ye_bolme
             int sayac = 0;
 
             //
-            Console.WriteLine("Lütfen 1000000 Kadar Bir Sayı Giriniz");
-            Console.WriteLine(ConvertToInt32(Console.ReadLine());
+           // Console.WriteLine("Lütfen 1000000 Kadar Bir Sayı Giriniz");
+           // Console.WriteLine(ConvertToInt32(Console.ReadLine());
             //
 
             //yukardaki iki satır neden var, olmalı mı???
